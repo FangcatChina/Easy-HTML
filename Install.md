@@ -9,11 +9,16 @@ Python环境3.7.3及以上
 ### 国内推荐
 `git clone https://gitee.com/FangcatChina/Easy-HTML.git`
 ## 第二步 检查Python版本
-## Windows/Mac
+### Windows/Mac
 `python`
-## Linux
+### Linux
 `python3`
-## 第三步 运行
+## 第三步 安装Easygui
+### Windows/Mac
+`pip install easygui`
+### Linux
+`sudo pip3 install easygui`
+## 第四步 运行
 ### Windows/Mac
 ```
 cd Easy-HTML
